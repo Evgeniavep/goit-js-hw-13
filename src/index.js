@@ -1,5 +1,5 @@
 import './sass/main.scss';
 import Notiflix from 'notiflix';
-import Axios from 'axios';
+import card from './templates/card.hbs'
 
 const search = document.querySelector('.submit');
